@@ -6,13 +6,13 @@
 <img width="886" height="421" alt="image" src="https://github.com/user-attachments/assets/c7e7d585-c7d1-4ed9-8e86-37ed04b6150d" />
 
 Task list:
-[x] Make simple screen share
-[x] Keys and mouse
-[x] Touchscreen
-[x] Send error
-[x] GPU, CPU, RAM usage
-[ ] Start apps (broken)
-[ ] Auth system (broken)
+- [x] Make simple screen share
+- [x] Keys and mouse
+- [x] Touchscreen
+- [x] Send error
+- [x] GPU, CPU, RAM usage
+- [x] Auth system
+- [ ] Start apps (broken)
 
 
 How this works?
