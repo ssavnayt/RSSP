@@ -26,7 +26,7 @@ You can just go to yourserver:2037/docs to see Available API
 How to use this API?
 
 1) Download API
-1.1) Setup shared/config.py file
+and setup shared/config.py file
 2) Start API via `start.bat` or server.py
 3) Setup any port forwarding tool (if needed), in example: pinggy.io
 4) Join my place: [Screen Test](https://www.roblox.com/games/98821705891412/Screen-Test) (or publish it yourself and join)
