@@ -34,6 +34,9 @@ and setup shared/config.py file
 6) Press "Подключится" (connect)
 7) Success
 
-If you have any problens, open issue in this repo please
+> [!TIP]
+> If you have any problens, open issue in this repo please
 
-### Linux Compatibility is not guaranteed, In linux it may be broken, if broken, make new issue
+
+> [!CAUTION]
+> Linux Compatibility is not guaranteed, In linux it may be broken, if broken, make new issue
