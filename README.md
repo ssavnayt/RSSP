@@ -10,7 +10,7 @@ Task list:
 [x] Keys and mouse
 [x] Touchscreen
 [x] Send error
-[x] GPU, CPU, RAM usage (today released)
+[x] GPU, CPU, RAM usage
 [ ] Start apps (broken)
 [ ] Auth system (broken)
 
