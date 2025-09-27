@@ -11,7 +11,10 @@ Todo List:
 - [x] Error Reporting
 - [x] GPU, CPU, and RAM Usage
 - [x] Authentication System
-- [ ] Launching Applications (broken)
+- [x] Launching Applications
+- [x] Shutdown system
+- [x] Clipboard system
+- [ ] Camera share (only for server)
 
 How does it work?
 
