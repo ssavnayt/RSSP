@@ -27,7 +27,7 @@ How to use this API?
 and configure the shared/config.py file
 2) Run the API via `start.bat` or server.py
 3) Configure a port forwarding tool (if necessary), such as pinggy.io
-4) Join my website: [Screen Test](https://www.roblox.com/games/98821705891412/Screen-Test) or publish it yourself and join (not available, only in version 2).
+4) Join my place: [Screen Test](https://www.roblox.com/games/98821705891412/Screen-Test) or publish it yourself and join (not available, only in version 2).
 5) Open the dashboard and connect to your IP address (the dashboard is in Russian, sorry).
 6) Click "Connect."
 7) Success.
