@@ -35,3 +35,5 @@ How to use this API?
 7) Success
 
 If you have any problens, open issue in this repo please
+
+### Linux Compatibility is not guaranteed, In linux it may be broken, if broken, make new issue
