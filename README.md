@@ -14,7 +14,7 @@ Todo List:
 - [x] Launching Applications
 - [x] Shutdown system
 - [x] Clipboard system
-- [ ] Camera share 
+- [ ] Camera share (only server, broken)
 
 How does it work?
 
