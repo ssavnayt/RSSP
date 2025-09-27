@@ -24,6 +24,15 @@ How do I use this API manually?
 
 Simply navigate to yourserver:2037/docs to see the available APIs.
 
+How to setup shared/config.py?
+
+ss1 - compression value, in that value you are compressing screen resolution
+Login and password from panel is:
+AUTH_CONFIG = {
+    "login": "yourlogin",
+    "password": "yourpassword"
+}
+
 How to use this API?
 
 1) Download the API
