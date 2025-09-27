@@ -29,7 +29,7 @@ How to use this API?
 and setup shared/config.py file
 2) Start API via `start.bat` or server.py
 3) Setup any port forwarding tool (if needed), in example: pinggy.io
-4) Join my place: [Screen Test](https://www.roblox.com/games/98821705891412/Screen-Test) (or publish it yourself and join)
+4) Join my place: [Screen Test](https://www.roblox.com/games/98821705891412/Screen-Test) or publish it yourself and join (unavailable, only in V2)
 5) Open panel and connect to your IP (panel is in russian, sorry)
 6) Press "Подключится" (connect)
 7) Success
