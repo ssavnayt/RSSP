@@ -1,42 +1,32 @@
 # RSSP
 
-### RSSP - is a roblox screen share project that can share server screen to roblox place client
+### RSSP is a roblox screen share project that allows you to share your server screen with a roblox place client
  
  
 <img width="886" height="421" alt="image" src="https://github.com/user-attachments/assets/c7e7d585-c7d1-4ed9-8e86-37ed04b6150d" />
 
 Task list:
-- [x] Make simple screen share
+- [x] Make a simple screen sharing feature
 - [x] Keys and mouse
 - [x] Touchscreen
-- [x] Send error
-- [x] GPU, CPU, RAM usage
-- [x] Auth system
-- [ ] Start apps (broken)
+- [x] Send an error message
+- [x] GPU, CPU, and RAM usage
+- [x] Authorization system
+- [ ] Running applications (not working)
 
 
-How this works?
+How does it work?
 
-Roblox servers is making requests to RSSP server to output screen image via API
+Roblox servers send requests to the RSSP server to display a screenshot using the API
 
-How i can manually use this API?
+How can I manually use this API?
 
-You can just go to yourserver:2037/docs to see Available API
+You can just go to your server:2037/docs to see the available API
 
 How to use this API?
 
-1) Download API
-and setup shared/config.py file
-2) Start API via `start.bat` or server.py
-3) Setup any port forwarding tool (if needed), in example: pinggy.io
-4) Join my place: [Screen Test](https://www.roblox.com/games/98821705891412/Screen-Test) or publish it yourself and join (unavailable, only in V2)
-5) Open panel and connect to your IP (panel is in russian, sorry)
-6) Press "Подключится" (connect)
-7) Success
-
-> [!TIP]
-> If you have any problens, open issue in this repo please
-
-
-> [!CAUTION]
-> Linux Compatibility is not guaranteed, In linux it may be broken, if broken, make new issue
+1) Download the API
+and configure the shared/config.py file
+2) Run the API using `start.bat` or server.py
+3) Configure any port forwarding tool (if necessary), such as pinggy.io
+4) Register in my pl
