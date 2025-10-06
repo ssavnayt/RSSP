@@ -50,4 +50,4 @@ and configure the shared/config.py file
 > If you have any problems, please create an issue in this repository.
 
 > [!CAUTION]
-> Compatibility with Linux is not guaranteed. It may be broken on Linux. If not, please create a new issue.
+> Compatibility with Linux and macOS is not guaranteed. It may be broken on Linux and macOS. If not, please create a new issue.
