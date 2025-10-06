@@ -16,7 +16,7 @@ Todo List:
 - [x] Clipboard system
 - [ ] Camera share (only server, broken)
 - [ ] Mouse mover (not soon)
-- [ ] WebStreamClient HTTP Method ([Documentation](https://create.roblox.com/docs/reference/engine/classes/HttpService#CreateWebStreamClient))
+- [ ] WebStreamClient HTTP Method ([Documentation](https://create.roblox.com/docs/reference/engine/classes/HttpService#CreateWebStreamClient), if you can help, please create an issue)
 
 How does it work?
 
