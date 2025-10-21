@@ -17,6 +17,7 @@ Todo List:
 - [ ] Camera share (only server, broken)
 - [ ] Mouse mover (not soon)
 - [ ] WebStreamClient HTTP Method ([Documentation](https://create.roblox.com/docs/reference/engine/classes/HttpService#CreateWebStreamClient), if you can help, please create an issue)
+- [ ] Port forwarding via pinggy or bore (.pub or .digital)
 
 INFO: [here](https://github.com/ssavnayt/RSSP/blob/main/docs/main.md)
 
