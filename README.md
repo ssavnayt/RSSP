@@ -18,6 +18,8 @@ Todo List:
 - [ ] Mouse mover (not soon)
 - [ ] WebStreamClient HTTP Method ([Documentation](https://create.roblox.com/docs/reference/engine/classes/HttpService#CreateWebStreamClient), if you can help, please create an issue)
 
+INFO: [here](https://github.com/ssavnayt/RSSP/blob/main/docs/main.md)
+
 How does it work?
 
 Roblox servers send requests to the RSSP server via an API to display the screen.
@@ -40,9 +42,9 @@ How to use this API?
 1) Download the API
 and configure the shared/config.py file
 2) Run the API via `start.bat` or server.py
-3) Configure a port forwarding tool (if necessary), such as pinggy.io
+3) Configure a port forwarding tool (if necessary), such as pinggy.io (soon = api module to forward ports via pinggy or bore.pub or pore.digital)
 4) Join my place: [Screen Test](https://www.roblox.com/games/98821705891412/Screen-Test) or publish it yourself and join (not available, only in [version 2](https://github.com/ssavnayt/RSSP/releases/tag/v2.0.0)).
-5) Open the dashboard and connect to your IP address (the dashboard is in Russian, sorry).
+5) Open the dashboard and connect to your IP address.
 6) Click "Connect."
 7) Success.
 
