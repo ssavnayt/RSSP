@@ -14,7 +14,7 @@ Todo List:
 - [x] Launching Applications
 - [x] Shutdown system
 - [x] Clipboard system
-- [x] WebStreamClient HTTP Method ([Documentation](https://create.roblox.com/docs/reference/engine/classes/HttpService#CreateWebStreamClient), if you can help, please create an issue)
+- [x] WebStreamClient HTTP Method (v2.2+)
 - [ ] Camera share (only server, broken)
 - [ ] Mouse mover (not soon)
 - [ ] Port forwarding via pinggy or bore (.pub or .digital)
