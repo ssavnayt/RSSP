@@ -11,7 +11,7 @@ Todo List:
 - [x] Error Reporting
 - [x] GPU, CPU, and RAM Usage
 - [x] Authentication System
-- [x] Launching Applications
+- [x] Launching Applications (server-side only)
 - [x] Shutdown system
 - [x] Clipboard system
 - [x] WebStreamClient HTTP Method (v2.2+)
