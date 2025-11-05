@@ -11,13 +11,14 @@ Todo List:
 - [x] Error Reporting
 - [x] GPU, CPU, and RAM Usage
 - [x] Authentication System
-- [x] Launching Applications (server-side only)
+- [x] Launching Applications
 - [x] Shutdown system
 - [x] Clipboard system
-- [x] WebStreamClient HTTP Method (v2.2+)
+- [x] WebStreamClient SSE+base64 HTTP Method (v2.2 only)
 - [ ] Camera share (only server, broken)
 - [ ] Mouse mover (not soon)
 - [ ] Port forwarding via pinggy or bore (.pub or .digital)
+- [ ] WebStreamClient RawStream Method (server-side only, soon in 2.2.1+)
 
 > [!CAUTION]
 > Compatibility with Linux and macOS is not guaranteed. It may be broken on Linux and macOS. If not, please create a new issue.
@@ -30,7 +31,7 @@ Roblox servers send requests to the RSSP server via an API with Roblox SSE featu
 
 How do I use this API manually?
 
-Simply navigate to yourserver:2037/docs to see the available APIs.
+Simply navigate to yourserver:2037/docs to see the available API endpoints.
 
 How to setup shared/config.py?
 
