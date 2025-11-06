@@ -2,6 +2,8 @@
 
 ### RSSP is a open-source Roblox screen sharing project that allows you to share your server's screen with the Roblox Place client.
 
+#### Documentation: [here](https://github.com/ssavnayt/RSSP/blob/main/docs/main.md)
+
 <img width="886" height="421" alt="image" src="https://github.com/user-attachments/assets/c7e7d585-c7d1-4ed9-8e86-37ed04b6150d" />
 
 Todo List:
@@ -22,8 +24,6 @@ Todo List:
 
 > [!CAUTION]
 > Compatibility with Linux and macOS is not guaranteed. It may be broken on Linux and macOS. If not, please create a new issue.
-
-INFO: [here](https://github.com/ssavnayt/RSSP/blob/main/docs/main.md)
 
 How does it work?
 
