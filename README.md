@@ -20,7 +20,7 @@ Todo List:
 - [ ] Camera share (only server, broken)
 - [ ] Mouse mover (not soon)
 - [ ] Port forwarding via pinggy or bore (.pub or .digital)
-- [ ] WebStreamClient RawStream Method (server-side only, soon in 2.2.1+)
+- [ ] WebStreamClient RawStream Method (server-side only, soon)
 
 > [!CAUTION]
 > Compatibility with Linux and macOS is not guaranteed. It may be broken on Linux and macOS. If not, please create a new issue.
@@ -48,7 +48,7 @@ How to use this API?
 and configure the shared/config.py file
 2) Run the API via `start.bat` or server.py
 3) Configure a port forwarding tool (if necessary), such as pinggy.io (soon = api module to forward ports via pinggy or bore.pub or pore.digital)
-4) Join my place: [Screen Test](https://www.roblox.com/games/98821705891412/Screen-Test) or publish it yourself and join (not available, only in [version 2](https://github.com/ssavnayt/RSSP/releases/tag/v2.0.0), or in version v2.2 (with old getscreenimg method).
+4) Join my place: [Screen Test](https://www.roblox.com/games/98821705891412/Screen-Test), getscreenimg: [here](https://www.roblox.com/games/125877300864594/Screen-Test-2) or publish it yourself and join (not available, only in [version 2](https://github.com/ssavnayt/RSSP/releases/tag/v2.0.0), or in version v2.2 (with old getscreenimg method).
 5) Open the dashboard and connect to your IP address.
 6) Click "Connect."
 7) Success.
