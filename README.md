@@ -4,7 +4,7 @@
 
 #### Documentation: [here](https://github.com/ssavnayt/RSSP/blob/main/docs/main.md)
 
-### I AM NOT ANSWERING FOR PEOPLE, WHO USE THIS TOOL TO Acessing to others PCs !!!
+### I AM NOT ANSWERING FOR PEOPLE, WHO USE THIS TOOL TO ACESSING TO OTHER PCs !!!
 
 #### Donate: [here](https://www.donationalerts.com/r/whitik)
 
