@@ -27,6 +27,7 @@ Todo List:
 - [ ] Mouse mover (not soon)
 - [ ] Port forwarding via pinggy or bore (.pub or .digital)
 - [ ] WebStreamClient RawStream Method (server-side only, soon)
+- [ ] Telegram manager (work in progress...)
 
 > [!CAUTION]
 > Compatibility with Linux and macOS is not guaranteed. It may be broken on Linux and macOS. If not, please create a new issue.
