@@ -4,6 +4,8 @@
 
 #### Documentation: [here](https://github.com/ssavnayt/RSSP/blob/main/docs/main.md)
 
+### I AM NOT ANSWERING FOR PEOPLE, WHO USE THIS TOOL TO Acessing to others PCs !!!
+
 #### Donate: [here](https://www.donationalerts.com/r/whitik)
 
 <img width="886" height="421" alt="image" src="https://github.com/user-attachments/assets/c7e7d585-c7d1-4ed9-8e86-37ed04b6150d" />
