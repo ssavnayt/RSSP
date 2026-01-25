@@ -22,7 +22,7 @@ Todo List:
 - [x] Launching Applications
 - [x] Shutdown system
 - [x] Clipboard system
-- [x] WebStreamClient SSE+base64 HTTP Method (v2.2 only)
+- [ ] WebStreamClient SSE+base64 HTTP Method (v2.2 only, now broken, maintained)
 - [ ] Camera share (only server, broken)
 - [ ] Mouse mover (not soon)
 - [ ] Port forwarding via pinggy or bore (.pub or .digital)
