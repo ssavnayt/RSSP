@@ -25,7 +25,7 @@ Todo List:
 - [ ] WebStreamClient SSE+base64 HTTP Method (v2.2 only, now broken, maintained)
 - [ ] Camera share (only server, broken)
 - [ ] Mouse mover (not soon)
-- [ ] Port forwarding via pinggy or bore (.pub or .digital)
+- [x] Port forwarding via pinggy or bore (.pub or .digital)
 - [ ] WebStreamClient RawStream Method (server-side only, soon)
 - [ ] Telegram manager (work in progress...)
 
